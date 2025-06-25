@@ -10,6 +10,8 @@ pip install tpower5score
 ## 🚀 How to use
 
 ```python
+    import tpower5score
+
     topics_set = [<topics_set>]
     docs = [<documents>]
 

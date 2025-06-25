@@ -1,7 +1,7 @@
 from typing import List
 
-from judges import RelevanceJudge, OverlapJudge, InterpretabilityJudge
-from scoring import compute_topics_set_score
+from .judges import RelevanceJudge, OverlapJudge, InterpretabilityJudge
+from .scoring import compute_topics_set_score
 
 def evaluate(
         topics_set: List[str],

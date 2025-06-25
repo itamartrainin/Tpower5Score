@@ -1,3 +1,3 @@
-from evaluator import *
-from judges import *
-from scoring import *
+from .evaluator import *
+from .scoring import *
+from .judges import *
