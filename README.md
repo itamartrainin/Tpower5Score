@@ -33,9 +33,6 @@ Or see working example in [examples/main.py]()
 If you use this package in your work, please cite:
 
 ```bibtex
-@article{
-}
-
 @inproceedings{trainin-abend-2025-t5,
   title={$T^5Score$: A Methodology for Automatically Assessing the Quality of LLM Generated Multi-Document Topic Sets},
   author={Trainin Itamar, Omri Abend},
